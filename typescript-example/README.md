@@ -1,4 +1,4 @@
-### Golang aggregate example
+### Typescript aggregate example
 
 #### what the data looks like:
 
