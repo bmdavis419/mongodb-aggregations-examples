@@ -15,7 +15,7 @@
 
 #### what are we doing to do?
 
-This aggregation will be finding the three students with the highest average score across all 4 tests.
+This aggregation will be finding the average midterm score for each section.
 
 #### to run this program
 
@@ -23,4 +23,5 @@ YOU NEED MONGODB DOWNLOADED AND RUNNING ON 27017 FOR THIS TO WORK!!!
 
 THE DATA SEED IS IN THE PYTHON EXAMPLE
 
-1. `go run main.go`
+1. `npm i`
+2. `npm run start`
