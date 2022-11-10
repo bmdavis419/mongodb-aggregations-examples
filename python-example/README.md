@@ -16,3 +16,12 @@
 #### what are we doing to do?
 
 This aggregation will be finding the three students who scored the highest on the second final.
+
+#### to run this program
+
+YOU NEED MONGODB DOWNLOADED AND RUNNING ON 27017 FOR THIS TO WORK!!!
+
+1. `poetry shell`
+2. `poetry install`
+3. `poetry run python seed/seed.py`
+4. `poetry run python python_example/main.py`
